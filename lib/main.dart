@@ -77,7 +77,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ElevatedButton(
                 onPressed: () {
                   print('Clicked');
-                  APIs.updateInfo('from main');
+                  APIs.updateInfo('from 02 27 sep');
                 },
                 child: Icon(Icons.send_rounded)),
             const SizedBox(
